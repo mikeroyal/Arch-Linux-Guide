@@ -108,7 +108,7 @@ sudo systemctl status firewalld
 
 [Jitsi Meet](https://jitsi.org/jitsi-meet/) is a fully encrypted, 100% open source video conferencing solution.
 
-[Cisco Webex Web App](https://help.webex.com/en-us/n1pxgbz/Cisco-Webex-Web-App) is the web based veriosn of Cisco Webex video conferencing solution. 
+[Cisco Webex Web App](https://help.webex.com/en-us/n1pxgbz/Cisco-Webex-Web-App) is the web based verison of Cisco Webex video conferencing solution. 
 
 [Slack](https://slack.com/downloads/linux)
 
