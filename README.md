@@ -204,10 +204,6 @@ sudo systemctl status firewalld
 
 [Steam in ArchWiki](https://wiki.archlinux.org/index.php/Steam)
 
-[Get Steam](https://store.steampowered.com/about/)
-
-**OR**
-
 [Steam Flatpak](https://flathub.org/apps/details/com.valvesoftware.Steam)
 
 [Proton](https://github.com/ValveSoftware/Proton/) is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
