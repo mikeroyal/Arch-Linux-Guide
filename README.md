@@ -430,6 +430,8 @@ Local virtual devices with high performances.
 
 # Professional Audio & Video Editing
 
+[Back to the Top](https://github.com/mikeroyal/Arch-Linux-Guide/blob/main/README.md#table-of-contents)
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/108773208-dba7cb00-7512-11eb-8fd0-2d009dbfc729.png">
 </p>
