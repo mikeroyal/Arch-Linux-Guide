@@ -304,7 +304,7 @@ yay -Sy corectrl
 [WINE(Wine Is Not an Emulator)](https://www.winehq.org) is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD. Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
 
 
-# Setting up a MacOS workspace
+# Setting up a macOS workspace
 
 [Back to the Top](https://github.com/mikeroyal/Arch-Linux-Guide/blob/main/README.md#table-of-contents)
 
