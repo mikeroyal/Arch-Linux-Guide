@@ -57,17 +57,29 @@
 
 ## Good Arch Linux Desktops for everyday use.
 
- <h1 align="center">
+ <h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/107439879-9da8b100-6ae7-11eb-81a5-219d713130dc.png">
   <br />
   Manjaro Linux Desktop
-</h1>
+</h3>
 
-<h1 align="center">
+<h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/107439882-9e414780-6ae7-11eb-819e-e87e7bcc7a97.png">
   <br />
   EndeavourOS Deskop
-</h1>
+</h3>
+
+<h3 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127042105-f6a6d97e-77bd-402e-af4f-df7af588eb08.png">
+  <br />
+ Gauruda Linux Deskop
+</h3>
+
+<h3 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127042111-e8264a0a-7619-42eb-9ee6-abb96252b565.png">
+  <br />
+  SteamOS 3.0 with KDE Plasma Deskop
+</h3>
  
 ## GNOME Tweaks
 
