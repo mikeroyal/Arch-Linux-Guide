@@ -8,6 +8,11 @@
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/145649398-69b9898b-4c70-4ceb-a753-77a3c677c784.png">
+  <br />
+</p>
+
 # Table of Contents
 
 1. [Getting Started](https://github.com/mikeroyal/Arch-Linux-Guide/blob/main/README.md#getting-started)
@@ -57,29 +62,39 @@
 
 ## Good Arch Linux Desktops for everyday use.
 
+**[Manjaro Linux](https://manjaro.org/)**
+
  <h3 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107439879-9da8b100-6ae7-11eb-81a5-219d713130dc.png">
+ <img src="https://user-images.githubusercontent.com/45159366/145650520-6f0233c8-3f0f-434c-a85d-e713fb7624e9.png">
   <br />
   Manjaro Linux Desktop
 </h3>
 
+**[EndeavourOS](https://endeavouros.com/)**
+
 <h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/107439882-9e414780-6ae7-11eb-819e-e87e7bcc7a97.png">
   <br />
-  EndeavourOS Deskop
+  EndeavourOS Desktop
 </h3>
+
+**[Gauruda Linux](https://garudalinux.org/)**
 
 <h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/127042105-f6a6d97e-77bd-402e-af4f-df7af588eb08.png">
   <br />
- Gauruda Linux Deskop
+ Gauruda Linux Desktop
 </h3>
+
+**[ArcoLinux](https://arcolinux.com/)**
 
 <h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/128940632-9e2a198f-f84d-490b-b4a2-22f6217ee574.png">
   <br />
-ArcoLinux Deskop
+ArcoLinux Desktop
 </h3>
+
+[Steam OS 3.0](https://store.steampowered.com/steamdeck) is an [immutable](https://en.wikipedia.org/wiki/Immutable_object) Operating System(OS) using the [KDE Plasma](https://kde.org/plasma-desktop) desktop. This allows you to install applications in containers using [Flatpak](https://flatpak.org/), rather than onto the root filesystem. This means not only that the installation of applications is isolated from the core filesystem, but also that the ability for malicious applications to compromise/break your system is significantly reduced.
 
 <h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/127042111-e8264a0a-7619-42eb-9ee6-abb96252b565.png">
@@ -121,10 +136,13 @@ sudo systemctl status firewalld
 
 [Arch Linux User Repository (AUR)](https://aur.archlinux.org/) contains thousands build scripts, for compiling nearly 68,000 installable packages from source using the Arch Linux makepkg application.
 
-
 ## GNOME Software Center
 
 <img src="https://user-images.githubusercontent.com/45159366/107158830-71ebc680-6941-11eb-893f-be3ad3e1c830.png">
+
+## KDE Plasma Discover Software Center
+
+<img src="https://user-images.githubusercontent.com/45159366/145650373-2620ab51-2c79-492b-93fe-7ed1ed62db9e.png">
 
 **Note 1: All this software is also available in other popular Linux distributions such as [Debian](https://www.debian.org/), [Linux Mint](https://linuxmint.com/), [elementary OS](https://elementary.io/), [Fedora](https://getfedora.org), [Manjaro Linux](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/) and [Arch Linux](https://archlinux.org/).**
 
