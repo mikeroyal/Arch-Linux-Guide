@@ -138,7 +138,7 @@ sudo systemctl status firewalld
 
 ## GNOME Software Center
 
-<img src="https://user-images.githubusercontent.com/45159366/107158830-71ebc680-6941-11eb-893f-be3ad3e1c830.png">
+<img src="https://user-images.githubusercontent.com/45159366/145691816-6445caec-5608-4022-bff2-353cfb728c66.png">
 
 ## KDE Plasma Discover Software Center
 
