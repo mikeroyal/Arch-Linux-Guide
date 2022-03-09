@@ -97,7 +97,7 @@ ArcoLinux Desktop
 [Steam OS 3.0](https://store.steampowered.com/steamdeck) is an [immutable](https://en.wikipedia.org/wiki/Immutable_object) Operating System(OS) using the [KDE Plasma](https://kde.org/plasma-desktop) desktop. This allows you to install applications in containers using [Flatpak](https://flatpak.org/), rather than onto the root filesystem. This means not only that the installation of applications is isolated from the core filesystem, but also that the ability for malicious applications to compromise/break your system is significantly reduced.
 
 <h3 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127042111-e8264a0a-7619-42eb-9ee6-abb96252b565.png">
+ <img src="https://user-images.githubusercontent.com/45159366/157353163-6f5c4c1a-a89f-4ee5-9ffe-1d9f991c773c.png">
   <br />
   SteamOS 3.0 with KDE Plasma Deskop
 </h3>
