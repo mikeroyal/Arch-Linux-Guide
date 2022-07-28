@@ -454,6 +454,9 @@ is a powerful Digital Compositor that can handle all of your 2D/2.5D needs. Its 
 
 [Olive](https://www.olivevideoeditor.org) is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
 
+[Enve](https://maurycyliebner.github.io/)
+is a open-source 2D animation software which can be used to create vector animations, raster animations, and even use sound and video files. Enve was created with flexibility and expandability in mind.
+
 [OBS (Open Broadcaster Software)](https://obsproject.com/) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many other providers or record your own videos with high quality H264 / AAC encoding.
 
 [REAPER](https://www.reaper.fm/) is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.REAPER supports a vast range of hardware, digital formats and plugins, and can be comprehensively extended, scripted and modified. 
