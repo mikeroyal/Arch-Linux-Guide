@@ -4,6 +4,9 @@
   Arch Linux Guide
 </h1>
 
+ <a href="https://github.com/mikeroyal?tab=followers">
+         <img alt="followers" title="Follow me for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 	
+	 
 #### A guide on setting up your Arch Linux Desktop with all the essential Applications, Tools, and Games to make your experience with Arch Linux great!
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
