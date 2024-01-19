@@ -447,6 +447,9 @@ Local virtual devices with high performances.
 
 [Blender](https://www.blender.org/features/video-editing/) comes with a built-in video sequence editor allows you to perform basic actions like video cuts and splicing, as well as more complex tasks like video masking or color grading. The Video Editor includes: Live preview, luma waveform, chroma vectorscope and histogram displays. Audio mixing, syncing, scrubbing and waveform visualization.
 
+[Natron](https://natrongithub.github.io/)
+is a powerful Digital Compositor that can handle all of your 2D/2.5D needs. Its robust OIIO file formats and OpenFX architecture is what make Natron the most flexible open source compositor for the visual effects community. Natron has a powerful keying, roto/rotopaint, 2D tracking tools that are staple for all current film production project that requires visual effects. 
+
 [Kdenlive](https://kdenlive.org/en/) is an open source video editing tool that supports unlimited multimedia files. It's based on the MLT Framework, KDE and Qt. People who are looking for a very versatile video editing tool that comes packed with features. The latest 20.08 release is out with nifty features like Interface Layouts, Multiple Audio Stream support, Cached data management and Zoombars in the Clip Monitor and Effects Panel but one may argue that the highlights of this release are stability and interface improvements.
 
 [OpenShot](https://www.openshot.org/) is an open-source video editing tool that's designed for users new in the editing environment. It has simple features such as a simple drag-and-drop function, it provides an easy-to-use and quick-to-learn user interface. The powerful video editor offers tons of efficient ways to cut and trim down your videos. You can freely utilize the unlimited tracks, video effects engine, title editor, 3D animations, slow motion, and time effects. It supports commonly used video codecs that are supported by FFmpeg like WebM (VP9), AVCHD (libx264), HEVC (libx265) and audio codecs like mp3 (libmp3lame) and aac (libfaac). The program can render MPEG4, ogv, Blu-ray and DVD video, and Full HD videos for uploading to the internet video websites like YouTube.
@@ -456,6 +459,11 @@ Local virtual devices with high performances.
 [Shotcut](https://www.shotcut.org/) is an open source multi-platform video editor. You can perform various actions such as video editing (including 4K video quality), add effects, create new movies, import most image files formats, export to almost any file format and much more.
 
 [Olive](https://www.olivevideoeditor.org) is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
+
+[Synfig Studio](https://www.synfig.org/) is a free and open-source 2D animation software, designed as powerful industrial-strength solution for creating film-quality animation using a vector and bitmap artwork. It eliminates the need to create animation frame-by frame, allowing you to produce 2D animation of a higher quality with fewer people and resources.
+
+[Enve](https://maurycyliebner.github.io/)
+is a open-source 2D animation software which can be used to create vector animations, raster animations, and even use sound and video files. Enve was created with flexibility and expandability in mind.
 
 [OBS (Open Broadcaster Software)](https://obsproject.com/) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many other providers or record your own videos with high quality H264 / AAC encoding.
 
